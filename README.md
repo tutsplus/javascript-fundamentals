@@ -12,6 +12,6 @@ These are source files for the Tuts+ course: [JavaScript Fundamentals][published
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses
+[published url]: https://code.tutsplus.com/courses/javascript-fundamentals
 [instructor url]: https://tutsplus.com/authors/dan-wellman
 
