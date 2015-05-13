@@ -13,7 +13,7 @@
                 var subscriberArray = [callback];
                 subscribers[event] = subscriberArray;
             } else {
-                subscribers.push(callback);
+                subscribers[event].push(callback);
             }
         }
 
